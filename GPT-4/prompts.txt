@@ -1,0 +1,17 @@
+Task:
+Identify Non-overlapping Custom Named Entities from the given Text by only using your Linguistic knowledge.
+
+Context:
+List of the following predefined entities which should be strictly followed:
+ENTITY_TYPES = ['Disease_E', 'Anatomy_E', 'Cause_E', 'Diagnosis_E', 'Precaution_E', 'Riskfactor_E', 'Symptom_E', 'Medicine_E', 'Composition_E', 'Complication_E', 'Surgery_E']
+
+Input: "text"
+
+Output:
+Two lists of double-quoted strings each on single lines:
+entities = ["predicted non-overlapping entities from the text", ...]
+entity_types = ["corresponding entity types", ...]
+
+Special Remark:
+1) You should always abide by the ENTITY_LIST and only find entities inside the given Text. Ignore the entity types that you do not find in a text, not all the entities will occur in a single text.
+2) No Talk, just Output.
