@@ -1,0 +1,240 @@
+@prefix : <http://www.odin.com/disease/#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dis: <http://www.odin.com/disease/#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/spec/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@base <http://www.odin.com/disease/#> .
+
+<http://www.odin.com/disease/#> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.odin.com/disease/#affects
+dis:affects rdf:type owl:ObjectProperty ;
+            rdfs:domain dis:Disease ;
+            rdfs:range dis:Anatomy ;
+            rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+            rdfs:label "affects" .
+
+
+###  http://www.odin.com/disease/#caused_by
+dis:caused_by rdf:type owl:ObjectProperty ;
+              rdfs:domain dis:Disease ;
+              rdfs:range dis:Cause ;
+              rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+              rdfs:label "caused_by" .
+
+
+###  http://www.odin.com/disease/#diagnosis_on
+dis:diagnosis_on rdf:type owl:ObjectProperty ;
+                 rdfs:domain dis:Diagnosis ;
+                 rdfs:range dis:Anatomy ;
+                 rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                 rdfs:label "diagnosis_on" .
+
+
+###  http://www.odin.com/disease/#has_code
+dis:has_code rdf:type owl:ObjectProperty ;
+             rdfs:domain dis:Disease ;
+             rdfs:range dis:Code ;
+             rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+             rdfs:label "has_code" .
+
+
+###  http://www.odin.com/disease/#has_complication
+dis:has_complication rdf:type owl:ObjectProperty ;
+                     rdfs:domain dis:Disease ;
+                     rdfs:range dis:Complication ;
+                     rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                     rdfs:label "has_complication" .
+
+
+###  http://www.odin.com/disease/#has_diagnosis
+dis:has_diagnosis rdf:type owl:ObjectProperty ;
+                  rdfs:domain dis:Disease ;
+                  rdfs:range dis:Diagnosis ;
+                  rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                  rdfs:label "has_diagnosis" .
+
+
+###  http://www.odin.com/disease/#has_precaution
+dis:has_precaution rdf:type owl:ObjectProperty ;
+                   rdfs:domain dis:Disease ;
+                   rdfs:range dis:Precaution ;
+                   rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                   rdfs:label "has_precaution" .
+
+
+###  http://www.odin.com/disease/#has_risk_factor
+dis:has_risk_factor rdf:type owl:ObjectProperty ;
+                    rdfs:domain dis:Disease ;
+                    rdfs:range dis:Riskfactor ;
+                    rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                    rdfs:label "has_risk_factor" .
+
+
+###  http://www.odin.com/disease/#has_side_effect
+dis:has_side_effect rdf:type owl:ObjectProperty ;
+                    rdfs:domain dis:Treatment ;
+                    rdfs:range dis:Complication ;
+                    rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                    rdfs:label "has_side_effect" .
+
+
+###  http://www.odin.com/disease/#has_symptom
+dis:has_symptom rdf:type owl:ObjectProperty ;
+                rdfs:domain dis:Disease ;
+                rdfs:range dis:Symptom ;
+                rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                rdfs:label "has_symptom" .
+
+
+###  http://www.odin.com/disease/#influence
+dis:influence rdf:type owl:ObjectProperty ;
+              rdfs:domain dis:Complication ;
+              rdfs:range dis:Anatomy ;
+              rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+              rdfs:label "influence" .
+
+
+###  http://www.odin.com/disease/#made_with
+dis:made_with rdf:type owl:ObjectProperty ;
+              rdfs:domain dis:Medicine ;
+              rdfs:range dis:Composition ;
+              rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+              rdfs:label "made_with" .
+
+
+###  http://www.odin.com/disease/#needs
+dis:needs rdf:type owl:ObjectProperty ;
+          rdfs:domain dis:Diagnosis ;
+          rdfs:range dis:Surgery ;
+          rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+          rdfs:label "needs" .
+
+
+###  http://www.odin.com/disease/#prescribed_for
+dis:prescribed_for rdf:type owl:ObjectProperty ;
+                   rdfs:domain dis:Medicine ;
+                   rdfs:range dis:Disease ;
+                   rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                   rdfs:label "prescribed_for" .
+
+
+###  http://www.odin.com/disease/#surgery_for
+dis:surgery_for rdf:type owl:ObjectProperty ;
+                rdfs:domain dis:Surgery ;
+                rdfs:range dis:Disease ;
+                rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                rdfs:label "surgery_for" .
+
+
+###  http://www.odin.com/disease/#surgery_on
+dis:surgery_on rdf:type owl:ObjectProperty ;
+               rdfs:domain dis:Surgery ;
+               rdfs:range dis:Anatomy ;
+               rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+               rdfs:label "surgery_on" .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.odin.com/disease/#Anatomy
+dis:Anatomy rdf:type owl:Class ;
+            rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+            rdfs:label "Anatomy" .
+
+
+###  http://www.odin.com/disease/#Cause
+dis:Cause rdf:type owl:Class ;
+          rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+          rdfs:label "Cause" .
+
+
+###  http://www.odin.com/disease/#Code
+dis:Code rdf:type owl:Class ;
+         rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+         rdfs:label "Code" .
+
+
+###  http://www.odin.com/disease/#Complication
+dis:Complication rdf:type owl:Class ;
+                 rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                 rdfs:label "Complication" .
+
+
+###  http://www.odin.com/disease/#Composition
+dis:Composition rdf:type owl:Class ;
+                rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+                rdfs:label "Composition" .
+
+
+###  http://www.odin.com/disease/#Diagnosis
+dis:Diagnosis rdf:type owl:Class ;
+              rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+              rdfs:label "Diagnosis" .
+
+
+###  http://www.odin.com/disease/#Disease
+dis:Disease rdf:type owl:Class ;
+            rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+            rdfs:label "Disease" .
+
+
+###  http://www.odin.com/disease/#Medicine
+dis:Medicine rdf:type owl:Class ;
+             rdfs:subClassOf dis:Treatment ;
+             rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+             rdfs:label "Medicine" .
+
+
+###  http://www.odin.com/disease/#Precaution
+dis:Precaution rdf:type owl:Class ;
+               rdfs:subClassOf dis:Treatment ;
+               rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+               rdfs:label "Precaution" .
+
+
+###  http://www.odin.com/disease/#Riskfactor
+dis:Riskfactor rdf:type owl:Class ;
+               rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+               rdfs:label "Riskfactor" .
+
+
+###  http://www.odin.com/disease/#Surgery
+dis:Surgery rdf:type owl:Class ;
+            rdfs:subClassOf dis:Treatment ;
+            rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+            rdfs:label "Surgery" .
+
+
+###  http://www.odin.com/disease/#Symptom
+dis:Symptom rdf:type owl:Class ;
+            rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+            rdfs:label "Symptom" .
+
+
+###  http://www.odin.com/disease/#Treatment
+dis:Treatment rdf:type owl:Class ;
+              rdfs:isDefinedBy <http://www.odin.com/disease/#> ;
+              rdfs:label "Treatment" .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+<http://www.odin.com/disease/#> rdfs:comment "" ;
+                                rdfs:label "Disease_Schema_Extended" .
+
+
+###  Generated by the OWL API (version 5.1.17) https://github.com/owlcs/owlapi/
