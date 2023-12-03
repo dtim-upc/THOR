@@ -1,0 +1,101 @@
+Disease,Medicine
+Fungal Infection,"Antifungal cream, Antifungal liquids, Antifungal sprays"
+Allergy,Antihistamine
+GERD,"Antacid, Antidiarrhoeal, Proton-pump inhibitor"
+Chronic Cholestasis,"Ursodeoxycholic acid, UDCA"
+Drug Allergy,"Antihistamine, Steroid"
+Peptic Ulcer,"Omeprazole, pantoprazole, lansoprazole, Proton pump inhibitors"
+AIDS,"Abacavir, Didanosine, Emtricitabine, Lamivudine, Stavudine, Tenofovir, Zalcitabine, Zidovudine"
+Diabetes,"Metformin, Sulfonylureas, Meglitinides, Thiazolidinediones, DPP-4 inhibitors, GLP-1 receptor agonists, SGLT2 inhibitors, Insulin"
+Gastroenteritis,"Imodium, Pepto-Bismol"
+Asthma,"Albuterol, Levalbuterol, Metaproterenol sulfate"
+Hypertension,"Benazepril, Lotensin, Acebutolol, Sectral"
+Migraine,"Antipsychotics, Analgesic, Stimulant"
+Cervical Spondylosis,"Nonsteroidal anti-inflammatory drugs, NSAIDs, Analgesic"
+Brain hemorrhage,Antihypertensive drug
+Jaundice,Consult doctor
+Malaria,"Chloroquine phosphate, Artemisinin-based combination therapies"
+Chicken pox,"Analgesic, Antihistamine"
+Dengue,Analgesic
+Typhoid,"Chloramphenicol, Penicillin"
+Hepatitis A,Consult doctor
+Tuberculosis,"Isoniazid, Antibiotics"
+Common Cold,"Nasal decongestants, Analgesic"
+Pneumonia,"Penicillin, Isoniazid, Antibiotics"
+Piles,"Steroid, Lidocaine"
+Heart attack,Intravenous
+Varicose veins,Consult doctor
+Hypothyroidism,Levothyroxine
+Hypoglycemia,Levothyroxine
+Osteoarthritis,Analgesic
+Arthritis,Steroid
+Paroxysmal Positional Vertigo,Consult doctor
+Acne,"Isoniazid, Antibiotics"
+Urinary tract infection,"Penicillin, Isoniazid, Antibiotics"
+Psoriasis,Steroid
+Impetigo,"Penicillin, Isoniazid, Antibiotics"
+Swine flu,"Antiviral drugs, Analgesic"
+ADHD,Consult doctor
+Bird flu,"Oseltamivir, Tamiflu"
+Chikungunya,Analgesic
+Cholera,"Isoniazid, Antibiotics"
+Depression,"Selective serotonin reuptake inhibitors, SSRIs"
+Epilepsy,"Lyrics, Pregabalin"
+Gonorrhoea,"Isoniazid, Antibiotics"
+Gout,"Isoniazid, Antibiotics"
+Thyroid,"Levothyroxine Sodium, Synthroid, Levoxyl, Levothroid, Thyrox"
+Herpes,"Oseltamivir, Tamiflu"
+Insomnia,Antihistamine
+Conjunctivitis,Consult doctor
+Kidney stones,Diuretic
+PCOS,Metformin
+Rabies,"Oseltamivir, Tamiflu"
+Schizophrenia,"Abilify, Aripiprazole"
+Diphtheria,"Isoniazid, Antibiotics, Penicillin"
+E. coli Infection,Consult doctor
+Giardiasis,"Isoniazid, Antibiotics"
+Lyme disease,"Isoniazid, Antibiotics, Penicillin"
+Measles,Analgesic
+Meningitis,"Isoniazid, Antibiotics, Penicillin"
+Mumps,Analgesic
+Polio,"Polio vaccine, OPV, IPV"
+Rubella,Consult doctor
+Tetanus,"Isoniazid, Antibiotics, Penicillin, Metronidazole"
+Whooping cough,"Isoniazid, Antibiotics"
+Yellow fever,Consult doctor
+Anthrax,"Isoniazid, Antibiotics"
+Chlamydia,"Isoniazid, Antibiotics"
+Leprosy,"Isoniazid, Antibiotics, Steroid"
+Phthiriasis,Consult doctor
+Salmonella,"Isoniazid, Antibiotics"
+Smallpox,"Tecovirimat, tpoxx"
+Vaginosis,"Isoniazid, Antibiotics"
+Zika,Consult doctor
+Stroke,Alteplase
+Cystic fibrosis,"Isoniazid, Antibiotics, Penicillin"
+Autism,Consult doctor
+Eczema,"Antihistamine, Steroid"
+Down syndrome,Consult doctor
+Fibromyalgia,"Selective serotonin reuptake inhibitors, SSRIs, Analgesic"
+Muscular dystrophy,Steroid
+Adenomyosis,Consult doctor
+Sickle cell anemia,Consult doctor
+scleroderma,"Nifedipine, Steroid"
+Thrombocythemia,Consult doctor
+Alzheimer's,"Galantamine, Rivastigmine, Donepezil, Cholinesterase inhibitors"
+Cerebral palsy,Sedative
+Anemia,Ferrous sulfate
+Ankylosing spondylitis,"Steroid, Immunosuppressive drug"
+Lupus,Steroid
+Multiple sclerosis,"Steroid, Immunosuppressive drug"
+Ascariasis,Consult doctor
+Amnesia,Consult doctor
+Anxiety disorders,"Selective serotonin reuptake inhibitors, SSRIs, Sedative"
+Bladder stones,Consult doctor
+Breast cysts,Consult doctor
+Bronchitis,Analgesic
+Cirrhosis,"Antiviral drugs, Isoniazid, Antibiotics"
+Dementia,Consult doctor
+Gallstones,Statin
+Gastritis,"Isoniazid, Antibiotics, Penicillin"
+Iritis,Steroid
