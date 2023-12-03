@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "text": "affects_R",
+    "prefixKey": null,
+    "suffixKey": "0",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 2,
+    "text": "caused_by_R",
+    "prefixKey": null,
+    "suffixKey": "1",
+    "backgroundColor": "#AEA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3,
+    "text": "has_code_R",
+    "prefixKey": null,
+    "suffixKey": "2",
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4,
+    "text": "has_diagnosis_R",
+    "prefixKey": null,
+    "suffixKey": "3",
+    "backgroundColor": "#68CCCA",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5,
+    "text": "has_precaution_R",
+    "prefixKey": null,
+    "suffixKey": "4",
+    "backgroundColor": "#A4DD00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 6,
+    "text": "has_risk_factor_R",
+    "prefixKey": null,
+    "suffixKey": "5",
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 7,
+    "text": "has_symptom_R",
+    "prefixKey": null,
+    "suffixKey": "6",
+    "backgroundColor": "#AB149E",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 8,
+    "text": "made_with_R",
+    "prefixKey": null,
+    "suffixKey": "7",
+    "backgroundColor": "#FCC400",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 9,
+    "text": "prescribed_for_R",
+    "prefixKey": null,
+    "suffixKey": "8",
+    "backgroundColor": "#194D33",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 10,
+    "text": "has_complication_R",
+    "prefixKey": null,
+    "suffixKey": "9",
+    "backgroundColor": "#D33115",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 11,
+    "text": "influence_R",
+    "prefixKey": null,
+    "suffixKey": "t",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 12,
+    "text": "has_side_effect_R",
+    "prefixKey": null,
+    "suffixKey": "a",
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 13,
+    "text": "surgery_on_R",
+    "prefixKey": null,
+    "suffixKey": "b",
+    "backgroundColor": "#7B64FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 14,
+    "text": "diagnosis_on_R",
+    "prefixKey": null,
+    "suffixKey": "c",
+    "backgroundColor": "#FCDC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 15,
+    "text": "needs_R",
+    "prefixKey": null,
+    "suffixKey": "d",
+    "backgroundColor": "#D33115",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 16,
+    "text": "surgery_for_R",
+    "prefixKey": null,
+    "suffixKey": "e",
+    "backgroundColor": "#68CCCA",
+    "textColor": "#ffffff"
+  }
+]
