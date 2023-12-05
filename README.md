@@ -1,9 +1,8 @@
-### <ins>T</ins>ext <ins>H</ins>omogenization from <ins>O</ins>blivion to <ins>R</ins>eality (**THOR**)
----
+## <ins>T</ins>ext <ins>H</ins>omogenization from <ins>O</ins>blivion to <ins>R</ins>eality (**THOR**)
 ### Codebase for ICDE Paper:
 #### "**Mitigating Data Sparsity in Integrated Data through Text Conceptualization**"
-
-## How To Run The **CODE**:
+---
+### <ins>How to Run the CODE</ins>:
 1) Open the [**THOR_Conceptualization.ipynb**](https://github.com/dtim-upc/THOR/blob/main/THOR_Conceptualization.ipynb) script and click on the **Open In Colab** Button.
 2) Run the script from **Runtime ->  Run All**
 3) It will automatically Download our Disease A-Z Dataset from the repository.
