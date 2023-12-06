@@ -8,10 +8,11 @@
 3) It will automatically Download our Disease A-Z Dataset from the repository.
 4) At the bottom of the notebook in the **Main Function** you will be asked which EVALUATION set you want to use OR if you want to do only INFERENCING.
       - **EVALUATION:** This will RUN the Evaluation for the selected split, and save the **RESULTS** (2 Excel Files) in the "**output**" Folder.
-        - By **Default** the **Threshold** is set to **T=0.8** (80%). In order to change the threshold please change this line in Main Function:<br>
+        - By **Default** the **Threshold** is set to **T=0.8** (80%). In order to change the threshold, please change this line in Main Function:<br>
                       `matcher = initiate_matcher(patterns=accu_data, threshold=80)`
       - **INFERENCING:** In order inference on your own text:
         - UPLOAD ONE TEXT (.txt) DOCUMENT (per-run) containing Disease and Condition related information (from your device) by clicking on **Choose Files** button.
 
+**NOTE:** Running on the Colab might take up-to 3x inference time due to the slow I/O bandwidth of Colab.
 
 
