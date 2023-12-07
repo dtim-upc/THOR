@@ -26,4 +26,7 @@
   - You need to UPLOAD the test data [**Masked_Text_Only_Test.json**](https://github.com/dtim-upc/THOR/blob/main/Dataset/Masked_Text_Only_Test.json) into the same directory as the code.
     - To run in **Colab**, upload it into the local cache directory: `'/content/Masked_Text_Only_Test.json'`
 
+### <ins> GPT-4 </ins>:
+  - Please follow the content of the **GPT-4** folder in order to reproduce this experiment.
+
 **NOTE:** Running on the Colab might take up-to 3x inference time due to the slow I/O bandwidth of Colab.
