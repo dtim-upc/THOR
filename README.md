@@ -25,7 +25,7 @@
 
 ### <ins>How to Run UniversalNER</ins>:
   - The [**UniversalNER.ipynb**](https://github.com/dtim-upc/THOR/blob/main/UniversalNER.ipynb) also requires a **Big GPU** (**Minimum 40 GB VRAM**) with at least 32 GB of system RAM.
-  - You need to UPLOAD the test data [**Masked_Text_Only_Test.json**](https://github.com/dtim-upc/THOR/blob/main/Dataset/Masked_Text_Only_Test.json) into the directory from where you want to run the code.
+  - You need to UPLOAD the test data [**Masked_Text_Only_Test.json**](https://github.com/dtim-upc/THOR/blob/main/Dataset/Masked_Text_Only_Test.json) into the same directory as the code.
     - To run in **Colab**, upload it into the local cache directory: `'/content/Masked_Text_Only_Test.json'`
 
 
