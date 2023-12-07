@@ -15,4 +15,8 @@
 
 **NOTE:** Running on the Colab might take up-to 3x inference time due to the slow I/O bandwidth of Colab.
 
+### <ins>How to Run Baseline</ins>:
+1) Follow the same instructions as above to run the [**Baseline.ipynb**](https://github.com/dtim-upc/THOR/blob/main/Baseline.ipynb).
+
+
 
