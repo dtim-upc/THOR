@@ -16,7 +16,16 @@
 **NOTE:** Running on the Colab might take up-to 3x inference time due to the slow I/O bandwidth of Colab.
 
 ### <ins>How to Run Baseline</ins>:
-1) Follow the same instructions as above to run the [**Baseline.ipynb**](https://github.com/dtim-upc/THOR/blob/main/Baseline.ipynb).
+  - Follow the same instructions as above to run the [**Baseline.ipynb**](https://github.com/dtim-upc/THOR/blob/main/Baseline.ipynb).
 
+### <ins>How to Run LM-SD/LM-Human</ins>:
+  - The [**LM-SD.ipynb**](https://github.com/dtim-upc/THOR/blob/main/LM-SD.ipynb) and [**LM-Human.ipynb**](https://github.com/dtim-upc/THOR/blob/main/LM-Human.ipynb) **NEEDS GPU** in order to run.
+  - Colab Free offers a limited GPU option; thus, we assume you have access to either Colab Pro or a Local GPU (at least 6GB VRAM).
+  - Please follow the **instructions** inside the [**model_config**](https://github.com/dtim-upc/THOR/tree/main/model_config) folder.
+
+### <ins>How to Run UniversalNER</ins>:
+  - The [**UniversalNER.ipynb**](https://github.com/dtim-upc/THOR/blob/main/UniversalNER.ipynb) also requires a **Big GPU** (**Minimum 40 GB VRAM**) with at least 32 GB of system RAM.
+  - You need to UPLOAD the test data [**Masked_Text_Only_Test.json**](https://github.com/dtim-upc/THOR/blob/main/Dataset/Masked_Text_Only_Test.json) into the directory from where you want to run the code.
+    - To run in **Colab**, upload it into the local cache directory: `'/content/Masked_Text_Only_Test.json'`
 
 
