@@ -13,8 +13,6 @@
       - **INFERENCING:** In order inference on your own text:
         - UPLOAD ONE TEXT (.txt) DOCUMENT (per-run) containing Disease and Condition related information (from your device) by clicking on **Choose Files** button.
 
-**NOTE:** Running on the Colab might take up-to 3x inference time due to the slow I/O bandwidth of Colab.
-
 ### <ins>How to Run Baseline</ins>:
   - Follow the same instructions as above to run the [**Baseline.ipynb**](https://github.com/dtim-upc/THOR/blob/main/Baseline.ipynb).
 
@@ -28,4 +26,4 @@
   - You need to UPLOAD the test data [**Masked_Text_Only_Test.json**](https://github.com/dtim-upc/THOR/blob/main/Dataset/Masked_Text_Only_Test.json) into the same directory as the code.
     - To run in **Colab**, upload it into the local cache directory: `'/content/Masked_Text_Only_Test.json'`
 
-
+**NOTE:** Running on the Colab might take up-to 3x inference time due to the slow I/O bandwidth of Colab.
