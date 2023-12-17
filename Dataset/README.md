@@ -1,6 +1,6 @@
 # Dataset: Disease/Conditions A-Z
 
-## Evaluation Datasets
+## Evaluation Settings and Splits
 
 For our comparative evaluation, we utilize the **test** portion of our annotated text dataset (refer to Table: Annotated Text Dataset Statistics). The task-specific fine-tuning employs the **structured data** for **LM-SD**, and the same data is used to build patterns for the **Baseline** and to fine-tune the embedding vector in our approach, **THOR**. The **LM-Human** is fine-tuned with a contextualized **training** set from the annotated text. For both language models, the **validation** data is used to learn optimal hyperparameters.
 
@@ -22,7 +22,7 @@ The text dataset is split based on the **Diseases** files, aiming to distribute 
 |---------|----------|-----------|--------|
 | 10      | 11       | 4706      | 14010  |
 
-## Use Case Datasets
+## Disease/Conditions A-Z Dataset Description
 
 We consider a health-related data scenario containing **Disease A-Z** information with **Conditions**. The following sections describe the data sources and schema used.
 
