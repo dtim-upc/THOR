@@ -34,7 +34,7 @@ To address data sparsity via enrichment during data integration, our intrinsic e
 
 Our structured data sources contain disease and condition information in tabular format (CSVs), following the integrated schema (Fig. Schema). Each structured data source contains two columns relating concepts such as **Disease** and **Anatomy** or **Surgery** and **Anatomy**. We have 10 structured sources containing instances of 11 concepts.
 
-![The Integrated Schema for our Use Case Datasets](images/Disease_Schema_Extended.pdf)
+![The Integrated Schema for our Use Case Datasets](images/disease_schema.png)
 
 ## Annotation Interface and Process
 
