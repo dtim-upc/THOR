@@ -48,19 +48,19 @@ Our structured data sources contain disease and condition information in tabular
 
 ### Text Data Sources
 
-We annotated a text dataset with concepts and relations shown in our schema (Fig. Schema). The dataset aggregates **Disease/Conditions A-Z** information from major health portals like WHO, NHS, and CDC. We manually collected texts about 1100+ diseases, out of which 314 diseases were annotated. Each disease information is organized into up to eight different text documents indicating major aspects (conditions) of those diseases such as - Overview, Causes, Symptoms, Complications, Diagnosis, Treatment, Prevention, and Risk-factors. This gives a 360º view of the diseases , making it a good candidate for information extraction. A sample disease data source from one of the portal looks like this: [NHS](https://www.nhs.uk/conditions/acne/).
+We annotated a text dataset with concepts and relations shown in our schema (Fig. Schema). The dataset aggregates **Disease/Conditions A-Z** information from major health portals like WHO, NHS, and CDC. We manually collected texts about 1100+ diseases, out of which 314 diseases were annotated. Each disease information is organized into up to eight different text documents indicating major aspects (conditions) of those diseases such as - Overview, Causes, Symptoms, Complications, Diagnosis, Treatment, Prevention, and Risk-factors. Each text file has been named according to the corresponding ICD-11 disease code and name, adhering to the latest 11th edition of International Classification of Diseases (ICD), which can be found at [ICD-11](https://icd.who.int/ct11/icd11_mms/en/release). This gives a 360º view of the diseases, making it a good candidate for Information Extraction and NLP related tasks. A sample disease data source from one of the portal looks like this: [NHS](https://www.nhs.uk/conditions/acne/).
 
 #### <ins>Text Data Annotation Guidelines</ins>:
 
-The following guidelines pertain specifically to the Text Data Annotation portion of our dataset. Each text file has been named according to the corresponding ICD11 disease code, adhering to the International Classification of Diseases 11th edition, which can be found at [ICD-11](https://icd.who.int/ct11/icd11_mms/en/release).
+The following guidelines pertain specifically to the Text Data Annotation portion of our dataset. To facilitate Named Entity Recognition and Relation Extraction, we have compiled a comprehensive health dataset encompassing detailed information on individual diseases. From an initial collection of 1100+ diseases, a total of 314 diseases have been meticulously annotated. Our annotation efforts have been focused on ensuring the highest quality of data. The guidelines adhered to in the annotation process are as follows:
 
-To facilitate Named Entity Recognition and Relation Extraction, we have compiled a comprehensive health dataset encompassing detailed information on individual diseases. From an initial compilation of information on approximately 1100 diseases, a total of 314 diseases have been meticulously annotated. Our annotation efforts have been focused on ensuring the highest quality of data by incorporating punctuation corrections, integration of abbreviations, processing of bullet points, and integration of disease codes. The guidelines adhered to in the annotation process are as follows:
-
-- Initialization of entity labels and relation labels to set the foundation for the annotation framework.
 - Development of a specialized schema tailored for the annotation task, serving as a structured guideline.
-- Marking of words followed by the selection of appropriate labels from the predefined set.
-- Identification and establishment of dependencies between entities, followed by the addition of these into a corresponding relation, chosen from a list of available relation labels.
-- Rigorous validation of chosen relations against the schema to ensure consistency and accuracy.
+- Adhering to the Entity labels and Relation labels defined in the schema for the manual annotation process.
+- Incorporating several pre-processing such as punctuation corrections, adding abbreviations, processing of bullet points, and integration of disease codes.
+- Marking the span of words followed by the selection of appropriate labels from the predefined set of entities, ensuring correct entity annotation.
+- Identification and establishment of dependencies between entities, followed by connecting these into corresponding relations, chosen from a list of available relation labels.
+- Introduction of global entity type corresponding to the name of the disease to mark implicit relations in text.
+- Rigorous validation of chosen entity and relations against the schema to ensuring consistency and accuracy.
 
 By strictly following these guidelines, we aim to create a dataset that is not only precise but also aligns with the intended use-case scenarios.
 
@@ -96,4 +96,11 @@ The annotation process requires meticulous attention to two types of labeling: E
   3. After both entities are selected, choose the appropriate relation label that accurately describes their interaction.
   4. Review the relationships to ensure they are consistent with the predefined schema and accurately reflect the text's content.
 
-The careful execution of these steps is vital in creating a robust dataset that serves the purpose of Named Entity Recognition and Relation Extraction tasks effectively.
+#### <ins>Annotation Agreement and Efforts</ins>
+
+The table below shows the minimum and maximum time taken for annotating single instances of disease, document, and tokens. It also indicates the approximate total duration of hours it took to annotate the entire dataset. Three annotators, each with specialized knowledge, annotated the dataset individually. In cases of disagreement, a separate expert with linguistic expertise ensured the accuracy of the annotations (please check the [Annotation_Agreement.xlsx](https://github.com/dtim-upc/THOR/blob/main/Dataset/Annotation_Agreement.xlsx) file). Each annotator dedicated between 3 to 6 hours per day to this task, spanning over a period of more than 3 months.
+
+**Annotation Efforts In Terms of Minimum and Maximum Time**
+| Single Disease (min-max) | Single Document (min-max) | Single Token (min-max) | Total Duration (Hours) |
+|--------------------------|---------------------------|------------------------|------------------------|
+| 80m – 150m               | 7m – 25m                  | 8s – 13s               | 600+                   |
