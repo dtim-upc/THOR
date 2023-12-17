@@ -2,7 +2,7 @@
 
 ## Evaluation Settings and Splits
 
-To address data sparsity via enrichment during data integration, our intrinsic evaluation accounts for a wide variety of entity types and a complex schema (Fig. Schema). For our comparative evaluation, we utilize the **test** portion of our annotated text dataset (refer to Table: Annotated Text Dataset Statistics). The task-specific fine-tuning employs the **structured data** for **LM-SD**, and the same data is used to build patterns for the **Baseline** and to fine-tune the embedding vector in our approach, **THOR**. The **LM-Human** is fine-tuned with a contextualized **training** set from the annotated text. For both language models, the **validation** data is used to learn optimal hyperparameters.
+To address data sparsity via enrichment during data integration, our intrinsic evaluation accounts for a wide variety of entity types and a complex schema (Fig. Schema). For our comparative evaluation, we utilize the **TEST** portion of our annotated text dataset (refer to Table: Annotated Text Dataset Statistics). The task-specific fine-tuning employs the **structured data** for **LM-SD**, and the same data is used to build patterns for the **Baseline** and to fine-tune the embedding vector in our approach, **THOR**. The **LM-Human** is fine-tuned with a contextualized **training** set from the annotated text. For both language models, the **validation** data is used to learn optimal hyperparameters.
 
 The text dataset is split based on the **Diseases** files, aiming to distribute the total number of entities into approximately 70% for training, 20% for validation, and 10% for testing. There are some deviations in the entity counts due to the difficulty in splitting them exactly into 70/20/10 percentages.
 
@@ -22,6 +22,14 @@ The text dataset is split based on the **Diseases** files, aiming to distribute 
 |---------|----------|-----------|--------|
 | 10      | 11       | 4706      | 14010  |
 
+The following is the individual class-wise statistics of our **TEST** data:
+
+<p align="center">
+  <img src="images/test_statistics.png" width="700"/><br>
+  *Figure: Individual Class-wise Statistics of Annotated Test Data.*
+</p>
+
+
 ## Disease/Conditions A-Z Dataset Description
 
 We consider a health-related data scenario containing **Disease A-Z** information with **Conditions**. The following sections describe the data sources and schema used.
@@ -30,7 +38,10 @@ We consider a health-related data scenario containing **Disease A-Z** informatio
 
 Our structured data sources contain disease and condition information in tabular format (CSVs), following the integrated schema (Fig. Schema). Each structured data source contains two columns relating concepts such as **Disease** and **Anatomy** or **Surgery** and **Anatomy**. We have 10 structured sources containing instances of 11 concepts.
 
-![The Integrated Schema for our Use Case Datasets](images/disease_schema.png)
+<p align="center">
+  <img src="images/disease_schema.png" width="700"/><br>
+  *Figure: The Integrated Schema for our Use Case Datasets.*
+</p>
 
 ---
 
@@ -58,8 +69,10 @@ We utilized the open-source tool [doccano](https://doccano.github.io/doccano/) t
 
 The following image represents a snippet of our annotated text, showcasing how entities and relations are structured within the dataset:
 
-![Annotated Text Sample](images/annotated_text.png)
-*Figure: A snippet of the annotated text showing entities and relations for Tuberculosis.*
+<p align="center">
+  <img src="images/annotated_text.png" width="900"/><br>
+  *Figure: A snippet of the annotated text showing entities and relations for Tuberculosis.*
+</p>
 
 Entities are denoted with suffix `_E` and relations with `_R`, allowing for a clear and concise representation of complex medical information. This structured annotation facilitates the training of models for Named Entity Recognition and Relation Extraction tasks.
 
