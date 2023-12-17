@@ -26,17 +26,33 @@ The text dataset is split based on the **Diseases** files, aiming to distribute 
 
 We consider a health-related data scenario containing **Disease A-Z** information with **Conditions**. The following sections describe the data sources and schema used.
 
-### Text Data Sources
-
-To address data sparsity via enrichment during data integration, our intrinsic evaluation accounts for a wide variety of entity types and a complex schema. We annotated a text dataset with concepts and relations shown in our schema (Fig. Schema). The dataset aggregates **Disease/Conditions A-Z** information from major health portals like WHO, NHS, and CDC. We manually collected texts about 314 diseases, organized into up to eight different text documents per condition.
-
 ### Structured Data Sources and Integrated Schema
 
 Our structured data sources contain disease and condition information in tabular format (CSVs), following the integrated schema (Fig. Schema). Each structured data source contains two columns relating concepts such as **Disease** and **Anatomy** or **Surgery** and **Anatomy**. We have 10 structured sources containing instances of 11 concepts.
 
 ![The Integrated Schema for our Use Case Datasets](images/disease_schema.png)
 
-## Annotation Interface and Process
+---
+
+### Text Data Sources
+
+To address data sparsity via enrichment during data integration, our intrinsic evaluation accounts for a wide variety of entity types and a complex schema. We annotated a text dataset with concepts and relations shown in our schema (Fig. Schema). The dataset aggregates **Disease/Conditions A-Z** information from major health portals like WHO, NHS, and CDC. We manually collected texts about 314 diseases, organized into up to eight different text documents per condition.
+
+#### <ins>Text Data Annotation Guidelines</ins>
+
+The following guidelines pertain specifically to the Text Data Annotation portion of our dataset. Each text file has been named according to the corresponding ICD11 disease code, adhering to the International Classification of Diseases 11th edition, which can be found at [ICD-11](https://icd.who.int/ct11/icd11_mms/en/release).
+
+To facilitate Named Entity Recognition and Relation Extraction, we have compiled a comprehensive health dataset encompassing detailed information on individual diseases. From an initial compilation of information on approximately 1100 diseases, a total of 314 diseases have been meticulously annotated. Our annotation efforts have been focused on ensuring the highest quality of data by incorporating punctuation corrections, integration of abbreviations, processing of bullet points, and integration of disease codes. The guidelines adhered to in the annotation process are as follows:
+
+- Initialization of entity labels and relation labels to set the foundation for the annotation framework.
+- Development of a specialized schema tailored for the annotation task, serving as a structured guideline.
+- Marking of words followed by the selection of appropriate labels from the predefined set.
+- Identification and establishment of dependencies between entities, followed by the addition of these into a corresponding relation, chosen from a list of available relation labels.
+- Rigorous validation of chosen relations against the schema to ensure consistency and accuracy.
+
+By strictly following these guidelines, we aim to create a dataset that is not only precise but also aligns with the intended use-case scenarios.
+
+#### Annotation Tool and Sample
 
 We utilized the open-source tool [doccano](https://doccano.github.io/doccano/) to annotate our dataset. The annotation process involves identifying and labeling entities such as diseases, symptoms, and anatomy, as well as the relations between them, such as causality and symptoms association.
 
