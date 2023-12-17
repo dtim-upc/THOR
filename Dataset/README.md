@@ -1,12 +1,12 @@
-# Dataset: Disease/Conditions A-Z
+# Datasets
 
-## Evaluation Settings and Splits
+## Evaluation Data
 
 To address data sparsity via enrichment during data integration, our intrinsic evaluation accounts for a wide variety of entity types and a complex schema (Fig. Schema). For our comparative evaluation, we utilize the **TEST** portion of our annotated text dataset (refer to Table: Annotated Text Dataset Statistics). The task-specific fine-tuning employs the **structured data** for **LM-SD**, and the same data is used to build patterns for the **Baseline** and to fine-tune the embedding vector in our approach, **THOR**. The **LM-Human** is fine-tuned with a contextualized **training** set from the annotated text. For both language models, the **validation** data is used to learn optimal hyperparameters.
 
 The text dataset is split based on the **Diseases** files, aiming to distribute the total number of entities into approximately 70% for training, 20% for validation, and 10% for testing. There are some deviations in the entity counts due to the difficulty in splitting them exactly into 70/20/10 percentages.
 
-### Annotated Text Dataset (Disease A-Z) Statistics
+#### Annotated Text Dataset (Disease A-Z) Statistics
 
 | \#          | Training | Validation | Test | Total  |
 |-------------|----------|------------|------|--------|
@@ -16,19 +16,20 @@ The text dataset is split based on the **Diseases** files, aiming to distribute 
 | Relations   | 10269    | 2145       | 867  | 13281  |
 | Tokens      | 168816   | 38722      | 19237| 226775 |
 
-### Statistics of Structured Data
+The following is the individual class-wise statistics of our **TEST** data:
+
+<p align="left">
+  <img src="images/test_statistics.png" width="900"/><br>
+  *Figure: Individual Class-wise Statistics of Annotated Test Data.*
+</p>
+
+#### Statistics of Structured Data
 
 | Sources | Concepts | Instances | Tokens |
 |---------|----------|-----------|--------|
 | 10      | 11       | 4706      | 14010  |
 
-The following is the individual class-wise statistics of our **TEST** data:
-
-<p align="center">
-  <img src="images/test_statistics.png" width="700"/><br>
-  *Figure: Individual Class-wise Statistics of Annotated Test Data.*
-</p>
-
+---
 
 ## Disease/Conditions A-Z Dataset Description
 
