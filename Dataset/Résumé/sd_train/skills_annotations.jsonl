@@ -1,0 +1,459 @@
+{"text": "Configuring", "entities": [[0, 11, "SKILLS"]]}
+{"text": "ABB VFD Installation and commissioning", "entities": [[0, 38, "SKILLS"]]}
+{"text": "Ab Initio", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Active Directory", "entities": [[0, 16, "SKILLS"]]}
+{"text": "ActiveMQ", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Administrative Law", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Adobe Illustrator", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Adobe Premiere Pro", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Advocate", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Agriculture", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Air Compressor", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Airflow", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Algorand", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Alteryx", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Quicksight", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Anchor", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Angel Investing", "entities": [[0, 15, "SKILLS"]]}
+{"text": "Angular Command Line Interface, CLI", "entities": [[0, 35, "SKILLS"]]}
+{"text": "AngularJS", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Annsys Simulation", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Ansible", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Answer customers queries regarding products and deliveries", "entities": [[0, 58, "SKILLS"]]}
+{"text": "An\u00e1lise empresarial", "entities": [[0, 19, "SKILLS"]]}
+{"text": "Apex Charts", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Apollo", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Arch", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Arduino UNO", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Automata", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Automotive", "entities": [[0, 10, "SKILLS"]]}
+{"text": "ECS", "entities": [[0, 3, "SKILLS"]]}
+{"text": "SAM", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Cognito", "entities": [[0, 7, "SKILLS"]]}
+{"text": "RDS", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Route53", "entities": [[0, 7, "SKILLS"]]}
+{"text": "IAM", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Amplify", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Load Balancers", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Elastic Search", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Elastic Cache", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Banking", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Basics AWS Cloud  Practitioner Essentials", "entities": [[0, 41, "SKILLS"]]}
+{"text": "Beautiful Soup", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Beautifulsoup4", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Bitbucket", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Bitbucket Pipelines", "entities": [[0, 19, "SKILLS"]]}
+{"text": "SCM", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Blockchain expert", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Briefing", "entities": [[0, 8, "SKILLS"]]}
+{"text": "C", "entities": [[0, 1, "SKILLS"]]}
+{"text": "C#", "entities": [[0, 2, "SKILLS"]]}
+{"text": "C++", "entities": [[0, 3, "SKILLS"]]}
+{"text": "CATIA", "entities": [[0, 5, "SKILLS"]]}
+{"text": "CDN (Azion", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Cloudflare", "entities": [[0, 10, "SKILLS"]]}
+{"text": "CDP", "entities": [[0, 3, "SKILLS"]]}
+{"text": "CEH", "entities": [[0, 3, "SKILLS"]]}
+{"text": "CICD", "entities": [[0, 4, "SKILLS"]]}
+{"text": "COBIT", "entities": [[0, 5, "SKILLS"]]}
+{"text": "CSM", "entities": [[0, 3, "SKILLS"]]}
+{"text": "CSPW", "entities": [[0, 4, "SKILLS"]]}
+{"text": "CSTM", "entities": [[0, 4, "SKILLS"]]}
+{"text": "CTF", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Cacti", "entities": [[0, 5, "SKILLS"]]}
+{"text": "Cassandra", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Celery", "entities": [[0, 6, "SKILLS"]]}
+{"text": "CentOS", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Chainlink", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Chillers", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Cloud Migration Expert", "entities": [[0, 22, "SKILLS"]]}
+{"text": "Competency Mapping", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Competitive Programmer", "entities": [[0, 22, "SKILLS"]]}
+{"text": "Compliance Regulations", "entities": [[0, 22, "SKILLS"]]}
+{"text": "Computer Aided Design (CAD)", "entities": [[0, 27, "SKILLS"]]}
+{"text": "Construction", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Construction Estimating", "entities": [[0, 23, "SKILLS"]]}
+{"text": "Consulting", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Coordinated", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Counseling Psychology", "entities": [[0, 21, "SKILLS"]]}
+{"text": "Critical Security Controls, CIS", "entities": [[0, 31, "SKILLS"]]}
+{"text": "SANS", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Crontab", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Crypto", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Crypto Marketing & Growth", "entities": [[0, 25, "SKILLS"]]}
+{"text": "Cryptocurrencies", "entities": [[0, 16, "SKILLS"]]}
+{"text": "Cryptocurrency", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Cryptography", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Crystal Report, Query Developer", "entities": [[0, 31, "SKILLS"]]}
+{"text": "DAO Maker", "entities": [[0, 9, "SKILLS"]]}
+{"text": "DApps", "entities": [[0, 5, "SKILLS"]]}
+{"text": "DBSqlite", "entities": [[0, 8, "SKILLS"]]}
+{"text": "DP-900", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Dapp", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Database Administrator and ICT Expert", "entities": [[0, 37, "SKILLS"]]}
+{"text": "Databases", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Datastage", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Datawarehouse", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Debian", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Decentralization", "entities": [[0, 16, "SKILLS"]]}
+{"text": "Derivatives", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Desenvolvimento de infraestrutura de TI", "entities": [[0, 39, "SKILLS"]]}
+{"text": "DevExpress", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Disaster Recovery", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Dise\u00f1o asistido por ordenador, CAD", "entities": [[0, 34, "SKILLS"]]}
+{"text": "Distributed Computing, AWS Fundamentals", "entities": [[0, 39, "SKILLS"]]}
+{"text": "Distributed Ledger Technology", "entities": [[0, 29, "SKILLS"]]}
+{"text": "Dockers", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Doer", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Domain Controller", "entities": [[0, 17, "SKILLS"]]}
+{"text": "D\u00e9veloppement de logiciels", "entities": [[0, 26, "SKILLS"]]}
+{"text": "E2N", "entities": [[0, 3, "SKILLS"]]}
+{"text": "ECR", "entities": [[0, 3, "SKILLS"]]}
+{"text": "ETL", "entities": [[0, 3, "SKILLS"]]}
+{"text": "EVM", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Early Stage Investor", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Eclipse", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Elastic Stack", "entities": [[0, 13, "SKILLS"]]}
+{"text": "ElasticSearch", "entities": [[0, 13, "SKILLS"]]}
+{"text": "ElementaryOS", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Elementor", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Emerson UPS instation and commissioning", "entities": [[0, 39, "SKILLS"]]}
+{"text": "Engenharia", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Entrepreneurship", "entities": [[0, 16, "SKILLS"]]}
+{"text": "Equities", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Estrat\u00e9gia empresarial", "entities": [[0, 22, "SKILLS"]]}
+{"text": "FastAPI", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Fedora", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Figma", "entities": [[0, 5, "SKILLS"]]}
+{"text": "Finance", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Firebase", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Firewalls", "entities": [[0, 9, "SKILLS"]]}
+{"text": "FortiGate", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Freelancing", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Fundraising", "entities": [[0, 11, "SKILLS"]]}
+{"text": "GAN", "entities": [[0, 3, "SKILLS"]]}
+{"text": "GSM", "entities": [[0, 3, "SKILLS"]]}
+{"text": "GameFi", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Gaming", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Ganache", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Garuda", "entities": [[0, 6, "SKILLS"]]}
+{"text": "GitFlow", "entities": [[0, 7, "SKILLS"]]}
+{"text": "GitOps", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Go Programming Language", "entities": [[0, 23, "SKILLS"]]}
+{"text": "Gradle", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Grafana", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Grails", "entities": [[0, 6, "SKILLS"]]}
+{"text": "GraphQL", "entities": [[0, 7, "SKILLS"]]}
+{"text": "HCIP-RS", "entities": [[0, 7, "SKILLS"]]}
+{"text": "HDP", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Hadoop", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Haskell", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Hibernate", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Highcharts", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Hive", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Hoist, Cranes", "entities": [[0, 13, "SKILLS"]]}
+{"text": "House wiring", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Hydropower", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Hyperledger", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Hyperledger Fabric", "entities": [[0, 18, "SKILLS"]]}
+{"text": "IBM Db2", "entities": [[0, 7, "SKILLS"]]}
+{"text": "ICT", "entities": [[0, 3, "SKILLS"]]}
+{"text": "IPv6", "entities": [[0, 4, "SKILLS"]]}
+{"text": "ISO 27001", "entities": [[0, 9, "SKILLS"]]}
+{"text": "IT Audit", "entities": [[0, 8, "SKILLS"]]}
+{"text": "IT Recruitment", "entities": [[0, 14, "SKILLS"]]}
+{"text": "ITGC", "entities": [[0, 4, "SKILLS"]]}
+{"text": "ITIL", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Illustrator", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Infraestrutura", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Innovation", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Intellij", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Interviewing", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Investments", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Investor", "entities": [[0, 8, "SKILLS"]]}
+{"text": "JPA", "entities": [[0, 3, "SKILLS"]]}
+{"text": "JSON", "entities": [[0, 4, "SKILLS"]]}
+{"text": "JSON Web Token", "entities": [[0, 14, "SKILLS"]]}
+{"text": "JSP", "entities": [[0, 3, "SKILLS"]]}
+{"text": "JUnit", "entities": [[0, 5, "SKILLS"]]}
+{"text": "JavaEE", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Jenkins", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Kendo", "entities": [[0, 5, "SKILLS"]]}
+{"text": "Kobo", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Kotlin", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Kubernative", "entities": [[0, 11, "SKILLS"]]}
+{"text": "AKS", "entities": [[0, 3, "SKILLS"]]}
+{"text": "EKS", "entities": [[0, 3, "SKILLS"]]}
+{"text": "KubeAdm", "entities": [[0, 7, "SKILLS"]]}
+{"text": "LAMDA", "entities": [[0, 5, "SKILLS"]]}
+{"text": "LGPD", "entities": [[0, 4, "SKILLS"]]}
+{"text": "LTE", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Lecturer", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Lecturing", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Legacy datawarehouse migration", "entities": [[0, 30, "SKILLS"]]}
+{"text": "Load Balancing", "entities": [[0, 14, "SKILLS"]]}
+{"text": "MBA", "entities": [[0, 3, "SKILLS"]]}
+{"text": "MCP", "entities": [[0, 3, "SKILLS"]]}
+{"text": "MCSA", "entities": [[0, 4, "SKILLS"]]}
+{"text": "MCSE", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Configuration", "entities": [[0, 13, "SKILLS"]]}
+{"text": "MEAN", "entities": [[0, 4, "SKILLS"]]}
+{"text": "MLOps", "entities": [[0, 5, "SKILLS"]]}
+{"text": "MSSQL", "entities": [[0, 5, "SKILLS"]]}
+{"text": "MTCNA", "entities": [[0, 5, "SKILLS"]]}
+{"text": "MVC", "entities": [[0, 3, "SKILLS"]]}
+{"text": "MVT", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Magento 2", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Maintenance & Repair", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Manufacturing", "entities": [[0, 13, "SKILLS"]]}
+{"text": "computadores", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Mathematics", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Maven", "entities": [[0, 5, "SKILLS"]]}
+{"text": "Metaverse", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Microwave", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Mikrotik", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Mining", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Model View Controller (MVC)", "entities": [[0, 27, "SKILLS"]]}
+{"text": "Mui", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Mulesoft", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Multitasking", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Multithreading", "entities": [[0, 14, "SKILLS"]]}
+{"text": "N+", "entities": [[0, 2, "SKILLS"]]}
+{"text": "NGOs", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Nagios", "entities": [[0, 6, "SKILLS"]]}
+{"text": "NestJS", "entities": [[0, 6, "SKILLS"]]}
+{"text": "NetBeans", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Next", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Nextjs", "entities": [[0, 6, "SKILLS"]]}
+{"text": "NoSQL", "entities": [[0, 5, "SKILLS"]]}
+{"text": "Non-Governmental Organizations, NGO", "entities": [[0, 35, "SKILLS"]]}
+{"text": "Nonprofits", "entities": [[0, 10, "SKILLS"]]}
+{"text": "OBIEE", "entities": [[0, 5, "SKILLS"]]}
+{"text": "OCA", "entities": [[0, 3, "SKILLS"]]}
+{"text": "OCP in 9i & 10g", "entities": [[0, 15, "SKILLS"]]}
+{"text": "OCI", "entities": [[0, 3, "SKILLS"]]}
+{"text": "OOP", "entities": [[0, 3, "SKILLS"]]}
+{"text": "OSB", "entities": [[0, 3, "SKILLS"]]}
+{"text": "OWASP", "entities": [[0, 5, "SKILLS"]]}
+{"text": "Objective-C", "entities": [[0, 11, "SKILLS"]]}
+{"text": "OpenCV", "entities": [[0, 6, "SKILLS"]]}
+{"text": "OpenZeppelin", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Openshift", "entities": [[0, 9, "SKILLS"]]}
+{"text": "PLSQL", "entities": [[0, 5, "SKILLS"]]}
+{"text": "PMI", "entities": [[0, 3, "SKILLS"]]}
+{"text": "PMP", "entities": [[0, 3, "SKILLS"]]}
+{"text": "PVSyst", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Pascal", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Pentester", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Perform cashier duties by handling cash", "entities": [[0, 39, "SKILLS"]]}
+{"text": "credit", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Perl", "entities": [[0, 4, "SKILLS"]]}
+{"text": "PhpMyAdmin", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Playwright", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Plugins", "entities": [[0, 7, "SKILLS"]]}
+{"text": "PostgresSQL", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Practitioner", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Presentations", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Problem Solving", "entities": [[0, 15, "SKILLS"]]}
+{"text": "Prometheus", "entities": [[0, 10, "SKILLS"]]}
+{"text": "PyTest", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Pyramid", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Pyspark", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Query", "entities": [[0, 5, "SKILLS"]]}
+{"text": "R", "entities": [[0, 1, "SKILLS"]]}
+{"text": "RESTful WebServices", "entities": [[0, 19, "SKILLS"]]}
+{"text": "RMAN", "entities": [[0, 4, "SKILLS"]]}
+{"text": "RPh", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Raisecom Router", "entities": [[0, 15, "SKILLS"]]}
+{"text": "ReactJs", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Real Estate", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Redis", "entities": [[0, 5, "SKILLS"]]}
+{"text": "Relational Databases", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Robotics", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Roshan Paudel", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Ruby", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Ruby on Rails", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Rust", "entities": [[0, 4, "SKILLS"]]}
+{"text": "SEO", "entities": [[0, 3, "SKILLS"]]}
+{"text": "SOA.", "entities": [[0, 4, "SKILLS"]]}
+{"text": "SQLServer", "entities": [[0, 9, "SKILLS"]]}
+{"text": "SQLite 3", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Salesforce.com", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Scala", "entities": [[0, 5, "SKILLS"]]}
+{"text": "Scrapy", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Securities", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Security Incident Response", "entities": [[0, 26, "SKILLS"]]}
+{"text": "Selenium", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Serverless", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Servlet", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Settlement", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Shridhar Bhosale", "entities": [[0, 16, "SKILLS"]]}
+{"text": "Simulations", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Singing", "entities": [[0, 7, "SKILLS"]]}
+{"text": "SketchUp", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Slack", "entities": [[0, 5, "SKILLS"]]}
+{"text": "SolidEdge", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Splunk", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Sports", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Spring MVC", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Springboot", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Startup Advisor", "entities": [[0, 15, "SKILLS"]]}
+{"text": "Stocks", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Streamlit", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Sucesso do cliente", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Sustainability", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Swing", "entities": [[0, 5, "SKILLS"]]}
+{"text": "System operator", "entities": [[0, 15, "SKILLS"]]}
+{"text": "Tableau", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Tamil", "entities": [[0, 5, "SKILLS"]]}
+{"text": "Teaching", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Teamwork", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Tech consulting", "entities": [[0, 15, "SKILLS"]]}
+{"text": "Telecommunications", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Telemarketing", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Tenable Nessus", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Terraform", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Teste unit\u00e1rio", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Thoughtspot", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Tinting", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Tkinter", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Tokenomics", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Trabalho em equipe", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Transmission Lines", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Trello", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Turtle.", "entities": [[0, 7, "SKILLS"]]}
+{"text": "UML", "entities": [[0, 3, "SKILLS"]]}
+{"text": "UMTS", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Ubuntu", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Unittest", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Unity3D", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Unix", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Urdu", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Ursina", "entities": [[0, 6, "SKILLS"]]}
+{"text": "User Interface Design", "entities": [[0, 21, "SKILLS"]]}
+{"text": "VNC", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Valuation", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Video Editing", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Vim", "entities": [[0, 3, "SKILLS"]]}
+{"text": "Virtualization", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Vite", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Vuex", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Web3js", "entities": [[0, 6, "SKILLS"]]}
+{"text": "Webpack", "entities": [[0, 7, "SKILLS"]]}
+{"text": "XML", "entities": [[0, 3, "SKILLS"]]}
+{"text": "blogging", "entities": [[0, 8, "SKILLS"]]}
+{"text": "bootstrap4", "entities": [[0, 10, "SKILLS"]]}
+{"text": "c", "entities": [[0, 1, "SKILLS"]]}
+{"text": "c#", "entities": [[0, 2, "SKILLS"]]}
+{"text": "cronjob", "entities": [[0, 7, "SKILLS"]]}
+{"text": "fabrication", "entities": [[0, 11, "SKILLS"]]}
+{"text": "nextjs/react", "entities": [[0, 12, "SKILLS"]]}
+{"text": "DotnetDeveloper", "entities": [[0, 15, "SKILLS"]]}
+{"text": "Azure Data Lake", "entities": [[0, 15, "SKILLS"]]}
+{"text": "Data", "entities": [[0, 4, "SKILLS"]]}
+{"text": "Data & AI Platforms", "entities": [[0, 19, "SKILLS"]]}
+{"text": "Data Architect", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Data Architect/Data Engineer", "entities": [[0, 28, "SKILLS"]]}
+{"text": "Data Engineer", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Data Engineer|", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Data Entry", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Data Guard", "entities": [[0, 10, "SKILLS"]]}
+{"text": "Data Lake", "entities": [[0, 9, "SKILLS"]]}
+{"text": "Data Modeling", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Data Platforms", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Data Scientist", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Data Specialist", "entities": [[0, 15, "SKILLS"]]}
+{"text": "Data Warehousing", "entities": [[0, 16, "SKILLS"]]}
+{"text": "Data engineer", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Data scientist", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Data structure", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Legacy Data warehouse Migration Specialist", "entities": [[0, 42, "SKILLS"]]}
+{"text": "Online Data Entry", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Account Developement", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Account Management", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Data Management", "entities": [[0, 15, "SKILLS"]]}
+{"text": "IT Management", "entities": [[0, 13, "SKILLS"]]}
+{"text": "Interim Management", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Log Management", "entities": [[0, 14, "SKILLS"]]}
+{"text": "Management", "entities": [[0, 10, "SKILLS"]]}
+{"text": "People Management", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Portfolio Management", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Program Management", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Supply Chain Management", "entities": [[0, 23, "SKILLS"]]}
+{"text": "Supply Chain Professional", "entities": [[0, 25, "SKILLS"]]}
+{"text": "Supply Management", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Third-Party Vendor Management", "entities": [[0, 29, "SKILLS"]]}
+{"text": "Time Management", "entities": [[0, 15, "SKILLS"]]}
+{"text": "Time Series Analysis", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Warehouse and Freight Management", "entities": [[0, 32, "SKILLS"]]}
+{"text": ".NET", "entities": [[0, 4, "SKILLS"]]}
+{"text": ".NET Framework", "entities": [[0, 14, "SKILLS"]]}
+{"text": ".NET/Dynamics", "entities": [[0, 13, "SKILLS"]]}
+{"text": ".Net/C# Developer", "entities": [[0, 17, "SKILLS"]]}
+{"text": ".net", "entities": [[0, 4, "SKILLS"]]}
+{"text": "ASP Dot Net", "entities": [[0, 11, "SKILLS"]]}
+{"text": "ASP.NET", "entities": [[0, 7, "SKILLS"]]}
+{"text": "ASP.NET AJAX", "entities": [[0, 12, "SKILLS"]]}
+{"text": "ASP.NET MVC", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Asp.net", "entities": [[0, 7, "SKILLS"]]}
+{"text": "C#.Net", "entities": [[0, 6, "SKILLS"]]}
+{"text": "DOT NET core", "entities": [[0, 12, "SKILLS"]]}
+{"text": "Dot Net Developer", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Full Stack .Net Developer", "entities": [[0, 25, "SKILLS"]]}
+{"text": "Mid Level Dot Net Developer", "entities": [[0, 27, "SKILLS"]]}
+{"text": "VB.NET", "entities": [[0, 6, "SKILLS"]]}
+{"text": "HTML, CSS, React, JavaScript, Node.js", "entities": [[0, 37, "SKILLS"]]}
+{"text": "Front end developer", "entities": [[0, 19, "SKILLS"]]}
+{"text": "MongoDB, Express JS, React JS, NodeJS", "entities": [[0, 37, "SKILLS"]]}
+{"text": "Full Stack Web Developer", "entities": [[0, 24, "SKILLS"]]}
+{"text": "React JS", "entities": [[0, 8, "SKILLS"]]}
+{"text": "React js Developer", "entities": [[0, 18, "SKILLS"]]}
+{"text": "React.js", "entities": [[0, 8, "SKILLS"]]}
+{"text": "React.js Developer", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Jr. Software Engineer", "entities": [[0, 21, "SKILLS"]]}
+{"text": "Python | Software Engineer", "entities": [[0, 26, "SKILLS"]]}
+{"text": "Senior Software Developer", "entities": [[0, 25, "SKILLS"]]}
+{"text": "Senior Software Engineer", "entities": [[0, 24, "SKILLS"]]}
+{"text": "Software Developer", "entities": [[0, 18, "SKILLS"]]}
+{"text": "Software Development", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Software Development Life Cycle (SDLC)", "entities": [[0, 38, "SKILLS"]]}
+{"text": "Software Engineer", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Software Engineer (React.js)", "entities": [[0, 28, "SKILLS"]]}
+{"text": "Software Test Engineer", "entities": [[0, 22, "SKILLS"]]}
+{"text": "Software and Network engineer", "entities": [[0, 29, "SKILLS"]]}
+{"text": "Software development", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Software engineer", "entities": [[0, 17, "SKILLS"]]}
+{"text": "software development", "entities": [[0, 20, "SKILLS"]]}
+{"text": "software engineering", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Android", "entities": [[0, 7, "SKILLS"]]}
+{"text": "Android Development", "entities": [[0, 19, "SKILLS"]]}
+{"text": "Capacity Building", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Capacity Development", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Community Development", "entities": [[0, 21, "SKILLS"]]}
+{"text": "Community Management", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Game Development", "entities": [[0, 16, "SKILLS"]]}
+{"text": "International Development", "entities": [[0, 25, "SKILLS"]]}
+{"text": "Rural Community Development", "entities": [[0, 27, "SKILLS"]]}
+{"text": "Rural Development", "entities": [[0, 17, "SKILLS"]]}
+{"text": "SANN International College", "entities": [[0, 26, "SKILLS"]]}
+{"text": "Sustainable Development", "entities": [[0, 23, "SKILLS"]]}
+{"text": "Test Driven Development", "entities": [[0, 23, "SKILLS"]]}
+{"text": "Theme Development", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Building Security Policies Information security SAP", "entities": [[0, 51, "SKILLS"]]}
+{"text": "Endpoint Security", "entities": [[0, 17, "SKILLS"]]}
+{"text": "Endpoint Security Information", "entities": [[0, 29, "SKILLS"]]}
+{"text": "Enterprise Network Security", "entities": [[0, 27, "SKILLS"]]}
+{"text": "IT Security", "entities": [[0, 11, "SKILLS"]]}
+{"text": "Information Security", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Information Security Management", "entities": [[0, 31, "SKILLS"]]}
+{"text": "Information security", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Network Security", "entities": [[0, 16, "SKILLS"]]}
+{"text": "Security", "entities": [[0, 8, "SKILLS"]]}
+{"text": "Network Security", "entities": [[0, 16, "SKILLS"]]}
+{"text": "System Security", "entities": [[0, 15, "SKILLS"]]}
+{"text": "information security", "entities": [[0, 20, "SKILLS"]]}
+{"text": "Deep Learning", "entities": [[0, 13, "SKILLS"]]}
+{"text": "ML", "entities": [[0, 2, "SKILLS"]]}
+{"text": "Machine Learning", "entities": [[0, 16, "SKILLS"]]}
+{"text": "Machine Learning Engineer", "entities": [[0, 25, "SKILLS"]]}
+{"text": "Machine Learning Engineer", "entities": [[0, 25, "SKILLS"]]}

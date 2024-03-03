@@ -1,0 +1,398 @@
+{"text": "IT", "entities": [[0, 2, "COMPANIES WORKED AT"]]}
+{"text": "System", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Sons", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "4D", "entities": [[0, 2, "COMPANIES WORKED AT"]]}
+{"text": "Lab", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "ABB", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "ACIP", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "AFRIDEX", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "AICTE", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "AIESEC", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "AIMIL", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "AITE", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "ALLURE CREATIONS", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "ALTEN", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "AMBER", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "AQRU", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "ARGANS", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "ASMI", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "ASRC Federal\nPrincipal", "entities": [[0, 22, "COMPANIES WORKED AT"]]}
+{"text": "AUSNEP IT", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "AXA Investment Managers", "entities": [[0, 23, "COMPANIES WORKED AT"]]}
+{"text": "AXIA", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "Aakaar", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Accenture", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Accenture Federal Services", "entities": [[0, 26, "COMPANIES WORKED AT"]]}
+{"text": "Accesstage", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Acubor", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Adobe", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Adventum", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Aegean Airlines", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "Aetna", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Airswap", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Airtel", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Albawani", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Albawani\nCyber", "entities": [[0, 14, "COMPANIES WORKED AT"]]}
+{"text": "Alcoa", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Algorithm Inc", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "Alis Holding", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Altigen", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Amadeus", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Amawarati Boys Hostel", "entities": [[0, 21, "COMPANIES WORKED AT"]]}
+{"text": "Amazon", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Amazon Web Services (AWS)", "entities": [[0, 25, "COMPANIES WORKED AT"]]}
+{"text": "Volkswagen", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Hospitality", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Amdocs", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "An4Soft", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Anekonnect Incorporated", "entities": [[0, 23, "COMPANIES WORKED AT"]]}
+{"text": "Antlia", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Appharu", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Apple", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Apptmyz", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Aria Servicii Informatice", "entities": [[0, 25, "COMPANIES WORKED AT"]]}
+{"text": "Art Can Die", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Arthasarokar", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Associate IT", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Astek", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Aster Creation", "entities": [[0, 14, "COMPANIES WORKED AT"]]}
+{"text": "Asterdio Inc.", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "Aurolab", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Aurus - Tokenised Gold", "entities": [[0, 22, "COMPANIES WORKED AT"]]}
+{"text": "Automatos", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Avanade", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Avanan", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Avi Mach Equipamentos", "entities": [[0, 21, "COMPANIES WORKED AT"]]}
+{"text": "Awddel", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Axiom Markets", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "BASF", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "BIFI", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "BNP Paribas CIB", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "Backlight Boot camp", "entities": [[0, 19, "COMPANIES WORKED AT"]]}
+{"text": "Bajaj Auto Ltd", "entities": [[0, 14, "COMPANIES WORKED AT"]]}
+{"text": "Banco BCT", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Banco Bradesco Cart\u00f5es", "entities": [[0, 22, "COMPANIES WORKED AT"]]}
+{"text": "Banco LAFISE", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Barclays", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Batas Organisation", "entities": [[0, 18, "COMPANIES WORKED AT"]]}
+{"text": "Baufest", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Beleggingspolischeck", "entities": [[0, 20, "COMPANIES WORKED AT"]]}
+{"text": "Benekiva", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "BerryBytes", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Betbright", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Beware of Mr. Baker", "entities": [[0, 19, "COMPANIES WORKED AT"]]}
+{"text": "BeyondID", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Beyondsoft", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Bhardwaj Paper Product Industry", "entities": [[0, 31, "COMPANIES WORKED AT"]]}
+{"text": "Bhetghat Law Firm", "entities": [[0, 17, "COMPANIES WORKED AT"]]}
+{"text": "Bidhee", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "BigOinfotech", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Bill Me Later", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "Inc.", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "Binance", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "BioTelemetry", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Biomedical Engineer", "entities": [[0, 19, "COMPANIES WORKED AT"]]}
+{"text": "BitGuild", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Bitalin Market & Exchange", "entities": [[0, 25, "COMPANIES WORKED AT"]]}
+{"text": "Bitdefender", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "BitpointX", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "BitsKraft (DigiConnect)", "entities": [[0, 23, "COMPANIES WORKED AT"]]}
+{"text": "BizData", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Blackcoffer", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "BloomED", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "BloomTech", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "BlueShift", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "BlueVoyant", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Blys", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "Boli Consultoria", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "Bondex", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Bootwal R&D", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "BorgWarner Inc.", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "Bosch Pharmaceuticals Pakistan", "entities": [[0, 30, "COMPANIES WORKED AT"]]}
+{"text": "Bradesco", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Brain2Bot", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Braindigit", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Brascoelma", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Bratsoft", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Brentford Services", "entities": [[0, 18, "COMPANIES WORKED AT"]]}
+{"text": "Bugcrowd", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Build Change", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Burger King", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "ByBrix", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "C# Corner", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "C&A", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "CAS Trading House", "entities": [[0, 17, "COMPANIES WORKED AT"]]}
+{"text": "CC", "entities": [[0, 2, "COMPANIES WORKED AT"]]}
+{"text": "CECoaching", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "CGCorpGlobal", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "CGI", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "CMC Ltd", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "CMG", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "CMPC", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "CONSTANT LOGISTICS INC", "entities": [[0, 22, "COMPANIES WORKED AT"]]}
+{"text": "CONTAX Inc.", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "CORELOT", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "CPM Braxis Capgemini", "entities": [[0, 20, "COMPANIES WORKED AT"]]}
+{"text": "CREHPA", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "CSC", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "CTN - Compagnie Tunisienne de Navigation", "entities": [[0, 40, "COMPANIES WORKED AT"]]}
+{"text": "Cannumo", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Capgemini", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "CareCloud", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "CareerMD", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Cariacica", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Cashback", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "CellPay", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "CerQlar", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Chainfrog", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "ChimpVine", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "(Beijing)", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Chino", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Arte y Lengua\nDirector", "entities": [[0, 22, "COMPANIES WORKED AT"]]}
+{"text": "Cigna", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Cisco", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Citi", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "Citytech", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "ClassLink", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "ClearCross", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Clip", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "CloudFactory", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "CloudFactory.", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "CloudHero", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Cloudyfox", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "CloverBuddies", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "CoPenned", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Code For GovTech", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "Code Himalaya", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "Code for Change", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "Codeomatics", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Codora", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Coforge", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Cognizant", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Coinsetter", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Colegio Universitario de Humanidades", "entities": [[0, 36, "COMPANIES WORKED AT"]]}
+{"text": "Comcast", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Commquest", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Companhia Bandeirantes", "entities": [[0, 22, "COMPANIES WORKED AT"]]}
+{"text": "ComplianceQuest", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "CompuCom", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Con-Way", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Concentrix", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "ConceptZI", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Confidential", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "ConstructConnect", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "Contabilizei", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Contentder", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Contentful", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Convergys", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "CopSonic", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Corpay One", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Creative Chatter", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "Creative Xchange", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "Singapore", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Crio.Do", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "CrowdStar", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Crowdbazaar", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Crypto Lotus", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "CryptoClear INC", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "CryptoNewsZ", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Cryptologic", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Cryptulpar Games", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "Crystal System", "entities": [[0, 14, "COMPANIES WORKED AT"]]}
+{"text": "Cubix", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "CupponPro Inc", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "Cyberpulse Inc.", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "Cysiv MEA previously SecureMisr", "entities": [[0, 31, "COMPANIES WORKED AT"]]}
+{"text": "Cytiva", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "D2Hawkeye", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "DATATOM.E.G.A [REDWIRE MARKETING CONSULT]", "entities": [[0, 41, "COMPANIES WORKED AT"]]}
+{"text": "DELTA", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "DEVNARAYAN PAWAN-MAINACHULI-KHAMPACHE", "entities": [[0, 37, "COMPANIES WORKED AT"]]}
+{"text": "DGHUB", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "DH IT Services", "entities": [[0, 14, "COMPANIES WORKED AT"]]}
+{"text": "DUDBC", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Lalitpur", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Dana Incorporated", "entities": [[0, 17, "COMPANIES WORKED AT"]]}
+{"text": "Danalitic", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "DansonTraining", "entities": [[0, 14, "COMPANIES WORKED AT"]]}
+{"text": "Leadership", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Innovative Leadership", "entities": [[0, 21, "COMPANIES WORKED AT"]]}
+{"text": "Database Associate", "entities": [[0, 18, "COMPANIES WORKED AT"]]}
+{"text": "Datahash", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Datalytics", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Datasans", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Dataside", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "DcentraLab", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Dealertrack", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Deerwalk", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Deerwalk Compware Ltd.", "entities": [[0, 22, "COMPANIES WORKED AT"]]}
+{"text": "Deerwalk Inc", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Deerwalk Inc.", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "Defactor", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "DefensyLab", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Deliveroo", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Deloitte", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Democratic Senatorial Campaign Committee", "entities": [[0, 40, "COMPANIES WORKED AT"]]}
+{"text": "Department of State English Access Microscholarship Program", "entities": [[0, 59, "COMPANIES WORKED AT"]]}
+{"text": "Derevo", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Destro IT", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Desygner", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Deutsche Telekom", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "DevCorps UI Visuals", "entities": [[0, 19, "COMPANIES WORKED AT"]]}
+{"text": "Devoteam", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Dewallstreet", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Dexco - Divis\u00e3o Deca", "entities": [[0, 20, "COMPANIES WORKED AT"]]}
+{"text": "DigiConnect", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Digihub", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "DigitalOcean", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Digituala", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Dignep", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Dinheirow", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "DishTV", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Kaski", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Divisional Secretary Office", "entities": [[0, 27, "COMPANIES WORKED AT"]]}
+{"text": "Docsumo", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Domino's", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Drivementor", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Dtravel", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "E&T Groups", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "E-Cell IIT Roorkee", "entities": [[0, 18, "COMPANIES WORKED AT"]]}
+{"text": "EALB", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "EDS", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "EG Life Sciences", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "ELEATION", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "ELEMENTS", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "ENPHO", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "ESCALE", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "EY", "entities": [[0, 2, "COMPANIES WORKED AT"]]}
+{"text": "Ebolt", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "EduCompanion", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Freelancer", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "EightSquare", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Eightsquare", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Ekbana", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Elektronini\u0173 mok\u0117jim\u0173 agent\u016bra", "entities": [[0, 30, "COMPANIES WORKED AT"]]}
+{"text": "Elsevier", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "EmblemHealth", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "Embratel", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Encantour", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Eneco", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Enhance IT", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Ensemble Matrix", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "Entelyst", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Environmental Logistics", "entities": [[0, 23, "COMPANIES WORKED AT"]]}
+{"text": "Epeepal", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Ericsson", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Ervaring", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Esewa travels and tours", "entities": [[0, 23, "COMPANIES WORKED AT"]]}
+{"text": "Ethereum", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Etherindex", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "EvaCodes", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "EveMoo", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "ExCon Services", "entities": [[0, 14, "COMPANIES WORKED AT"]]}
+{"text": "Exafore", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Exelon", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Experian", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Experience\nHamrahe Aval (MCI)", "entities": [[0, 29, "COMPANIES WORKED AT"]]}
+{"text": "ExpertH", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "ExtensoData", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "ExtraTech", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Eydean Inc.", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Eze Castle Integration", "entities": [[0, 22, "COMPANIES WORKED AT"]]}
+{"text": "Ezone", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "FAIRMED", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "FEST", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "FIRJAN", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "FSB", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "Facility - Solu\u00e7\u00f5es Corporativas", "entities": [[0, 32, "COMPANIES WORKED AT"]]}
+{"text": "Fastenopfer", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Switzerland", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Faunawatch", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Fawry", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "First Games", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Firstpaddle", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Fiserv", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Fivetran", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Flowti", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Flutter Entertainment Plc", "entities": [[0, 25, "COMPANIES WORKED AT"]]}
+{"text": "Foreveryng", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Fornetix", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Oklahoma\nComanche County Memorial Hospital", "entities": [[0, 42, "COMPANIES WORKED AT"]]}
+{"text": "Founding", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Freelance", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Frei Hall (RollDoctor)", "entities": [[0, 22, "COMPANIES WORKED AT"]]}
+{"text": "Freshktm", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Fusemachines", "entities": [[0, 12, "COMPANIES WORKED AT"]]}
+{"text": "G-Mana", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "G5tech", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "GAA", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "GAMESTA", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "GSCS Qatar (ITT APS-5 CONTRACT)", "entities": [[0, 31, "COMPANIES WORKED AT"]]}
+{"text": "GSI Executive Search", "entities": [[0, 20, "COMPANIES WORKED AT"]]}
+{"text": "GSK (formally Smithkline Beecham)", "entities": [[0, 33, "COMPANIES WORKED AT"]]}
+{"text": "GSM Fibra Optica", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "GTB", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "GVT", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "Gapsco", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "General BM", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Genese", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Genpact", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Geojam", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Geonavstar", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Germany\nGerman Red Cross", "entities": [[0, 24, "COMPANIES WORKED AT"]]}
+{"text": "Ghanimah", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "GirlScript Summer of Code", "entities": [[0, 25, "COMPANIES WORKED AT"]]}
+{"text": "GirlScript Winter of Contributing", "entities": [[0, 33, "COMPANIES WORKED AT"]]}
+{"text": "Global IME Microfinance", "entities": [[0, 23, "COMPANIES WORKED AT"]]}
+{"text": "Global Overview", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "Global Pathsala", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "GlobalShala", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Globo", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "GoChain", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "GoLorry", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Govt Post Graduate College For Boys Satellite Town Rawalpindi", "entities": [[0, 61, "COMPANIES WORKED AT"]]}
+{"text": "Graduate Teaching Assistant", "entities": [[0, 27, "COMPANIES WORKED AT"]]}
+{"text": "Greenplay", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Greenplay (Upwork)", "entities": [[0, 18, "COMPANIES WORKED AT"]]}
+{"text": "Grepsr", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "GrootBuzz", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "GrowByData", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Grupo Dimed", "entities": [[0, 11, "COMPANIES WORKED AT"]]}
+{"text": "Grupo JCA Holding", "entities": [[0, 17, "COMPANIES WORKED AT"]]}
+{"text": "Gurzu Inc", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Gyansagar Services", "entities": [[0, 18, "COMPANIES WORKED AT"]]}
+{"text": "HBC", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "HEY", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "HKI", "entities": [[0, 3, "COMPANIES WORKED AT"]]}
+{"text": "HP", "entities": [[0, 2, "COMPANIES WORKED AT"]]}
+{"text": "HSBC", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "HackerOne", "entities": [[0, 9, "COMPANIES WORKED AT"]]}
+{"text": "Hakuhodo", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Hama Iron and steels", "entities": [[0, 20, "COMPANIES WORKED AT"]]}
+{"text": "Hamburg\ndeltaDAO AG", "entities": [[0, 19, "COMPANIES WORKED AT"]]}
+{"text": "Hamgoun", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Harlequin plc", "entities": [[0, 13, "COMPANIES WORKED AT"]]}
+{"text": "Harmonic", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "HashRabbit", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Hashnode", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "USAID", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Helen Keller Intl", "entities": [[0, 17, "COMPANIES WORKED AT"]]}
+{"text": "Hennepin County", "entities": [[0, 15, "COMPANIES WORKED AT"]]}
+{"text": "Hetauda Hospital", "entities": [[0, 16, "COMPANIES WORKED AT"]]}
+{"text": "Makawanpur", "entities": [[0, 10, "COMPANIES WORKED AT"]]}
+{"text": "Hetra", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Heubert", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "Hightech", "entities": [[0, 8, "COMPANIES WORKED AT"]]}
+{"text": "Hillary for America", "entities": [[0, 19, "COMPANIES WORKED AT"]]}
+{"text": "Himal Refrigeration and Electrical Industries", "entities": [[0, 45, "COMPANIES WORKED AT"]]}
+{"text": "Himalaya Land Treks and Expedition", "entities": [[0, 34, "COMPANIES WORKED AT"]]}
+{"text": "Hitachi Energy", "entities": [[0, 14, "COMPANIES WORKED AT"]]}
+{"text": "Home Loan Experts", "entities": [[0, 17, "COMPANIES WORKED AT"]]}
+{"text": "Hosho", "entities": [[0, 5, "COMPANIES WORKED AT"]]}
+{"text": "Hospital Israelita Albert Einstein", "entities": [[0, 34, "COMPANIES WORKED AT"]]}
+{"text": "Hotwire", "entities": [[0, 7, "COMPANIES WORKED AT"]]}
+{"text": "House Of Rajkarnicar", "entities": [[0, 20, "COMPANIES WORKED AT"]]}
+{"text": "Hs consortium administrator", "entities": [[0, 27, "COMPANIES WORKED AT"]]}
+{"text": "Huawei", "entities": [[0, 6, "COMPANIES WORKED AT"]]}
+{"text": "Hudl", "entities": [[0, 4, "COMPANIES WORKED AT"]]}
+{"text": "Hulas Wire Industries Ltd", "entities": [[0, 25, "COMPANIES WORKED AT"]]}

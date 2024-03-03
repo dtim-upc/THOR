@@ -1,0 +1,231 @@
+{"text": "Adana", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Ahmedabad", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Al Jizah", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Alpharetta", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Amravati", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Amritsar", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Amsterdam", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Amsterdam Area", "entities": [[0, 14, "LOCATION"]]}
+{"text": "Andalucia", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Andhra Pradesh", "entities": [[0, 14, "LOCATION"]]}
+{"text": "Arghakhanchi District", "entities": [[0, 21, "LOCATION"]]}
+{"text": "Arizona", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Arroio dos Ratos", "entities": [[0, 16, "LOCATION"]]}
+{"text": "Ashland", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Australia", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Azamgarh", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Bahawalnagar District", "entities": [[0, 21, "LOCATION"]]}
+{"text": "Bangalore Urban", "entities": [[0, 15, "LOCATION"]]}
+{"text": "BANGALORE", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Bangladesh", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Barasat", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Barueri", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Belgrade", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Beltsville", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Bengaluru", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Berlin", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Besiktas", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Bettiah", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Bhaktapur", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Bhopal", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Bhubaneswar", "entities": [[0, 11, "LOCATION"]]}
+{"text": "Mumbai", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Bihar", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Biratnagar", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Birganj", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Bishal Nneupane", "entities": [[0, 15, "LOCATION"]]}
+{"text": "Bucharest", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Nepal", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Brasil", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Brazil", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Brooklyn", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Bucharest", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Buttonoak", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Butwal", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Cairo", "entities": [[0, 5, "LOCATION"]]}
+{"text": "California", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Campos dos Goytacazes", "entities": [[0, 21, "LOCATION"]]}
+{"text": "Can Tho", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Canada", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Cariacica", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Chandigarh", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Chennai", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Chicago", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Costa Rica", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Cuba", "entities": [[0, 4, "LOCATION"]]}
+{"text": "Cuddapah", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Curitiba", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Cyberjaya", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Dallas", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Dang District", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Dehradun", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Delhi", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Dhaka", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Dharan", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Distrito Federal", "entities": [[0, 16, "LOCATION"]]}
+{"text": "Doha", "entities": [[0, 4, "LOCATION"]]}
+{"text": "Dubai", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Egypt", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Egypt\nSummary", "entities": [[0, 13, "LOCATION"]]}
+{"text": "El Paso", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Enfield", "entities": [[0, 7, "LOCATION"]]}
+{"text": "England", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Espa\u00f1a", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Faisalabad District", "entities": [[0, 19, "LOCATION"]]}
+{"text": "Faridabad", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Federal District", "entities": [[0, 16, "LOCATION"]]}
+{"text": "Fortaleza", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Gandak", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Gandhinagar", "entities": [[0, 11, "LOCATION"]]}
+{"text": "Georgia", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Germany", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Ghaziabad", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Gonda", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Barcelona", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Boston", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Kalamazoo", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Sacramento", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Seattle", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Sudbury", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Greece", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Gujarat", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Gurugram", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Hannover", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Hardhat, Truffle", "entities": [[0, 16, "LOCATION"]]}
+{"text": "Haryana", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Hong Kong", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Horizonte", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Houston", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Hyderabad", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Ibadan", "entities": [[0, 6, "LOCATION"]]}
+{"text": "India", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Indiana", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Indianapolis", "entities": [[0, 12, "LOCATION"]]}
+{"text": "Indore", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Iran", "entities": [[0, 4, "LOCATION"]]}
+{"text": "Irvine", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Islamabad", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Jacare", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Jamnagar", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Jeddah", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Joinville", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Karachi", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Karnal", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Karnataka", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Kathmandu", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Kennesaw", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Khanna", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Kolkata", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Koshi", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Lagos", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Lahore", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Lalitpur", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Las Vegas", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Lathrop", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Lawton", "entities": [[0, 6, "LOCATION"]]}
+{"text": "London", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Los Angeles", "entities": [[0, 11, "LOCATION"]]}
+{"text": "Lucknow", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Lumbini", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Maxico", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Madhya Pradesh", "entities": [[0, 14, "LOCATION"]]}
+{"text": "Maharashtra", "entities": [[0, 11, "LOCATION"]]}
+{"text": "Makkah", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Makwanpur", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Malaysia", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Malta", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Maryland", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Massachusetts", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Minas Gerais", "entities": [[0, 12, "LOCATION"]]}
+{"text": "Minneapolis", "entities": [[0, 11, "LOCATION"]]}
+{"text": "Minnesota", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Mount Pleasant", "entities": [[0, 14, "LOCATION"]]}
+{"text": "MultiSig", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Mumbai", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Nagod", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Nashville", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Navegantes", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Navsari", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Nawalparasi", "entities": [[0, 11, "LOCATION"]]}
+{"text": "Netherlands", "entities": [[0, 11, "LOCATION"]]}
+{"text": "New Delhi", "entities": [[0, 9, "LOCATION"]]}
+{"text": "New York", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Newburgh", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Noida", "entities": [[0, 5, "LOCATION"]]}
+{"text": "North Carolina", "entities": [[0, 14, "LOCATION"]]}
+{"text": "North Holland", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Oklahoma", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Ontario", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Pakistan", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Palmer Rapids", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Palpa", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Palwal", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Paran\u00e1", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Pennsylvania", "entities": [[0, 12, "LOCATION"]]}
+{"text": "Pernambuco", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Philadelphia", "entities": [[0, 12, "LOCATION"]]}
+{"text": "Phoenixville", "entities": [[0, 12, "LOCATION"]]}
+{"text": "Pokhara", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Porto Alegre", "entities": [[0, 12, "LOCATION"]]}
+{"text": "Prayagraj", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Pune", "entities": [[0, 4, "LOCATION"]]}
+{"text": "Punjab", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Qatar", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Arteaga", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Queretaro", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Recife", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Rio de Janeiro", "entities": [[0, 14, "LOCATION"]]}
+{"text": "Rio Grande do Sul", "entities": [[0, 17, "LOCATION"]]}
+{"text": "Riyadh", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Romania", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Rotterdam", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Rupandehi", "entities": [[0, 9, "LOCATION"]]}
+{"text": "S\u00e3o Paulo", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Sacramento", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Saddle River", "entities": [[0, 12, "LOCATION"]]}
+{"text": "Saint Julian's", "entities": [[0, 14, "LOCATION"]]}
+{"text": "Samastipur", "entities": [[0, 10, "LOCATION"]]}
+{"text": "San Diego", "entities": [[0, 9, "LOCATION"]]}
+{"text": "San Francisco Bay Area", "entities": [[0, 22, "LOCATION"]]}
+{"text": "Sandesh", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Santa Catarina", "entities": [[0, 14, "LOCATION"]]}
+{"text": "Santo Andr\u00e9", "entities": [[0, 11, "LOCATION"]]}
+{"text": "Sarai Alamgir", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Saudi Arabia", "entities": [[0, 12, "LOCATION"]]}
+{"text": "Scottsdale", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Selangor", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Shuklagandaki", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Siliguri", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Silver Spring", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Sindh", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Singapore", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Solidity", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Sorocaba", "entities": [[0, 8, "LOCATION"]]}
+{"text": "Spring", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Stadt Hamburg", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Sul", "entities": [[0, 3, "LOCATION"]]}
+{"text": "Sunnyvale", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Surat", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Switzerland", "entities": [[0, 11, "LOCATION"]]}
+{"text": "Sydney", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Tabo\u00e3o da Serra", "entities": [[0, 15, "LOCATION"]]}
+{"text": "Tamil Nadu", "entities": [[0, 10, "LOCATION"]]}
+{"text": "Tehran", "entities": [[0, 6, "LOCATION"]]}
+{"text": "Telangana", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Tennessee", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Texas", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Thane", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Thanjavur", "entities": [[0, 9, "LOCATION"]]}
+{"text": "Toronto", "entities": [[0, 7, "LOCATION"]]}
+{"text": "Tunis", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Tunisia", "entities": [[0, 7, "LOCATION"]]}
+{"text": "U.N. Grave", "entities": [[0, 10, "LOCATION"]]}
+{"text": "United Kingdom", "entities": [[0, 14, "LOCATION"]]}
+{"text": "United States", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Unnao", "entities": [[0, 5, "LOCATION"]]}
+{"text": "Uttar Pradesh", "entities": [[0, 13, "LOCATION"]]}
+{"text": "Vila Velha", "entities": [[0, 10, "LOCATION"]]}
+{"text": "West Bengal", "entities": [[0, 11, "LOCATION"]]}
+{"text": "West Delhi", "entities": [[0, 10, "LOCATION"]]}
+{"text": "York City Metropolitan", "entities": [[0, 22, "LOCATION"]]}
+{"text": "Chittagong", "entities": [[0, 10, "LOCATION"]]}
