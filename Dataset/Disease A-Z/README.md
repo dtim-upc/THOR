@@ -1,4 +1,4 @@
-# Datasets
+# Disease A-Z Datasets
 
 ## Evaluation Data
 
@@ -25,13 +25,13 @@ The following is the individual class-wise statistics of our **TEST** data:
 
 #### Statistics of Structured Data
 
-| Sources | Concepts | Instances | Tokens |
-|---------|----------|-----------|--------|
-| 10      | 11       | 4706      | 14010  |
+| Sources | Concepts | Subject Instances | Instances |
+|---------|----------|-------------------|-----------|
+| 10      | 11       | 284               | 4,706     |
 
 ---
 
-## Disease/Conditions A-Z Dataset Description
+## Disease A-Z Dataset Description
 
 We consider a health-related data scenario containing **Disease A-Z** information with **Conditions**. The following sections describe the data sources and schema used.
 
