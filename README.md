@@ -29,6 +29,10 @@
 ### <ins>GPT-4</ins>:
   - Please follow the content of the [**GPT-4**](https://github.com/dtim-upc/THOR/tree/main/GPT-4) folder in order to reproduce this experiment.
 
+### <ins>Generalizability Experiment</ins>:
+  - The [**Generalizability Experiment**](https://github.com/dtim-upc/THOR/tree/main/Results/Generalizability) repeats all the above experiments but with a **New Domain** ([**Résumé Dataset**](https://github.com/dtim-upc/THOR/tree/main/Dataset/R%C3%A9sum%C3%A9)).
+  - You can find the evaluation scores in the corresponding [**Results->Generalizability**](https://github.com/dtim-upc/THOR/tree/main/Results/Generalizability) folder.
+
 **NOTE:** Running on the Colab might take up-to 3x inference time due to the slow I/O bandwidth of Colab.
 
 ---
