@@ -1,0 +1,98 @@
+[
+  {
+    "id": 72504,
+    "text": "NAME",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#9f9d4a",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72505,
+    "text": "LOCATION",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#5b0827",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72506,
+    "text": "COLLEGE NAME",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#838b63",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72508,
+    "text": "SKILLS",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#8649af",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72509,
+    "text": "LANGUAGE",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#034c69",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72510,
+    "text": "WORKED AS",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#5edbed",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72514,
+    "text": "YEARS OF EXPERIENCE",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#fdd1bc",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72519,
+    "text": "DEGREE",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#bb6798",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72526,
+    "text": "CERTIFICATION",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#376f98",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72537,
+    "text": "UNIVERSITY",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#f3e080",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72548,
+    "text": "COMPANIES WORKED AT",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#ba55b7",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 72944,
+    "text": "AWARDS",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#cf2bb0",
+    "textColor": "#ffffff"
+  }
+]
