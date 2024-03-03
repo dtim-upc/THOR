@@ -1,4 +1,4 @@
-# Datasets
+# Résumé Datasets
 
 ## Evaluation Data
 
@@ -10,11 +10,10 @@ The text dataset is split based on the **Diseases** files, aiming to distribute 
 
 | \#          | Training | Validation | Test | Total  |
 |-------------|----------|------------|------|--------|
-| Disease     | 240      | 61         | 13   | 314    |
-| Documents   | 1438     | 366        | 90   | 1894   |
-| Entities    | 18539    | 3989       | 2222 | 24750  |
-| Relations   | 10269    | 2145       | 867  | 13281  |
-| Tokens      | 168816   | 38722      | 19237| 226775 |
+| Resume      | 100      | 70         | 100  | 270    |
+| Documents   | 20       | 14         | 20   | 54     |
+| Entities    | 1656     | 1463       | 2140 | 5259   |
+| Tokens      | 41675    | 25389      | 38459| 105523 |
 
 The following is the individual class-wise statistics of our **TEST** data:
 
@@ -25,13 +24,13 @@ The following is the individual class-wise statistics of our **TEST** data:
 
 #### Statistics of Structured Data
 
-| Sources | Concepts | Instances | Tokens |
-|---------|----------|-----------|--------|
-| 10      | 11       | 4706      | 14010  |
+| Sources | Concepts | Subject Instances | Instances |
+|---------|----------|-------------------|-----------|
+| 12      | 12       | 201               | 3119      |
 
 ---
 
-## Disease/Conditions A-Z Dataset Description
+## Résumé Dataset Description
 
 We consider a health-related data scenario containing **Disease A-Z** information with **Conditions**. The following sections describe the data sources and schema used.
 
