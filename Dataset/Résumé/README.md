@@ -17,7 +17,7 @@ We used this dataset in order to evaluate the Generalizability of THOR (our appr
 The following is the individual class-wise statistics of our **TEST** data:
 
 <p align="left">
-  <img src="test_statistics.png" width="900"/><br>
+  <img src="test_statistics.png" width="600"/><br>
   *Figure: Individual Class-wise Statistics of Annotated Test Data.*
 </p>
 
