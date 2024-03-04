@@ -23,7 +23,7 @@ The following is the individual class-wise statistics of our **TEST** data:
 
 #### Statistics of Structured Data
 
-We created a total of 12 CSV files (once for each concepts in the dataset - see below the description of the dataset) containing only the **Entities** from the **training** and **validation* set of the annotated text. These entities in essence forms the instances in our structured data sources whereas the concept name acts the column name. 
+We created a total of 12 CSV files (once for each concept in the dataset - see below the description of the dataset) containing only the **Entities** from the **training** and **validation** set of the annotated text. These entities in essence form the instances in our structured data sources whereas the concept name acts as the column name. 
 
 | Sources | Concepts | Subject Instances | Instances |
 |---------|----------|-------------------|-----------|
