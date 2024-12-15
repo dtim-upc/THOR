@@ -40,4 +40,17 @@
   - You can find all the evaluation scores (.xlsx) in the [**Results**](https://github.com/dtim-upc/THOR/tree/main/Results) folder.
   - We followed the [**Evaluation Scheme**](https://github.com/MantisAI/nervaluate) proposed in SemEval 2013 for the Entity Recognition Task (9.1)
 
-
+ ## To Cite the **ICDE-2024** Paper:
+ ```ruby
+@INPROCEEDINGS{rahman2024mitigating,
+        author={Rahman, Md Ataur and Nadal, Sergi and Romero, Oscar and Sacharidis, Dimitris},
+        booktitle={2024 IEEE 40th International Conference on Data Engineering (ICDE)}, 
+        title={Mitigating Data Sparsity in Integrated Data through Text Conceptualization}, 
+        year={2024},
+        volume={},
+        number={},
+        pages={3490-3504},
+        keywords={Annotations;Data integration;Knowledge graphs;Information retrieval;Data engineering;Data models;Complexity theory;Data Integration;Information Extraction;Entity Recognition;Slot-filling},
+        doi={10.1109/ICDE60146.2024.00269}
+}
+```
